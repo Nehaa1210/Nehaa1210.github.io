@@ -18,6 +18,8 @@ body {
   #nav-menu {
     /* background-color: #333; */
     color: #fff;
+    border: 1px solid red;
+    height: 60px;
   }
   
   #nav-menu ul {
@@ -33,7 +35,7 @@ body {
   }
   
   #nav-menu li a {
-    color: #fff;
+    color: blue;
     text-decoration: none;
     cursor: pointer;
     font-size: 20px;
@@ -41,7 +43,7 @@ body {
   }
   
   #nav-menu li a:hover {
-    color: rgb(100, 237, 125);
+    color: cornflowerblue;
   }
   
   /* Home section styles */
@@ -75,10 +77,14 @@ body {
   
   #user-detail-intro {
     font-size: 18px;
-    color: #7a7575;
+    color: #666;
   }
   
   /* About section styles */
+
+  #about{
+    margin-top: 100px;
+  }
   
   .about-content {
     text-align: center;
@@ -144,7 +150,7 @@ body {
   #contact {
     text-align: center;
     padding: 50px 0;
-    background-color: #cfcccc;
+    background-color: #f9f9f9;
   }
   
   
@@ -341,9 +347,30 @@ body {
   
   
   
+  /* 
+  
+  .container hr {
+    border: none;
+    height: 8px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    
+  }
+  
+  .line-long {
+    width: 20%;
+    background: linear-gradient(to right, #FFD700, #FF8C00);
+  }
+  
+  .line-short {
+    width: 10%;
+    background: linear-gradient(to right, #00BFFF, #4169E1);
+  } */
+  
+  
+  
+  
+  
+  
 
-  
-  
-  
-  
-  
