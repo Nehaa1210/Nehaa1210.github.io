@@ -165,13 +165,13 @@ function handleSubmit(e) {
   //   loop: true,
   // });
 
-  const typed = new Typed('.typing1', {
-    strings: ['','Full Stack Web Developer', 'Frontend Developer'],
-    typeSpeed: 100,
-    backSpeed: 60,
-    backdelay: 10000,
-    loop: true
-  })
+  // const typed = new Typed('.typing1', {
+  //   strings: ['','Full Stack Web Developer', 'Frontend Developer'],
+  //   typeSpeed: 100,
+  //   backSpeed: 60,
+  //   backdelay: 10000,
+  //   loop: true
+  // })
 
   const colors = ['red', '#007bff', 'orange', 'magenta', 'cyan', '#0078ff']
   setInterval(()=>{
