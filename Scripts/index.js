@@ -53,7 +53,7 @@ darkmode.onclick = () => {
 const resume = document.getElementById("resume-button-1");
 resume.onclick = (e) => {
   // e.preventDefault()
-  window.open("./Media/Priya-P-resume.pdf", "_blank")
+  window.open("https://drive.google.com/file/d/1CeqKNNWB1hoX9lUxwuEJW2uSaeQifbe1/view?usp=sharing", "_blank")
   // console.log("Click");
 }
 
