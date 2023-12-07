@@ -28,6 +28,7 @@ window.onscroll = function () {
 };
 
 
+
 menu.onclick = () => {
   navbar.classList.toggle("active");
 };
@@ -60,7 +61,7 @@ resume.onclick = (e) => {
 const containerResume = document.getElementById("resume-button-2");
 containerResume.onclick = (e) => {
   // e.preventDefault()
-  window.open("./Media/Priya-P-resume.pdf", "_blank")
+  window.open("https://drive.google.com/file/d/1CeqKNNWB1hoX9lUxwuEJW2uSaeQifbe1/view?usp=sharing", "_blank")
   // console.log("Click");
 }
 
