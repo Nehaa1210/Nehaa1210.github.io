@@ -37,19 +37,19 @@ window.onscroll = () => {
 };
 
 // Dark Mode / light mode
-let darkmode = document.querySelector("#darkmode");
+// let darkmode = document.querySelector("#darkmode");
 
 
-darkmode.onclick = () => {
-  console.log(darkmode);
-  if (darkmode.classList.contains("bx-sun")) {
-    darkmode.classList.replace("bx-sun", "bx-moon");
-    document.body.classList.add("active");
-  } else {
-    darkmode.classList.replace("bx-moon", "bx-sun");
-    document.body.classList.remove("active");
-  }
-};
+// darkmode.onclick = () => {
+//   console.log(darkmode);
+//   if (darkmode.classList.contains("bx-sun")) {
+//     darkmode.classList.replace("bx-sun", "bx-moon");
+//     document.body.classList.add("active");
+//   } else {
+//     darkmode.classList.replace("bx-moon", "bx-sun");
+//     document.body.classList.remove("active");
+//   }
+// };
 
 
 
