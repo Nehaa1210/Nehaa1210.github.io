@@ -51,7 +51,7 @@
 }
 
 :root {
-  --main-color: #77797b;
+  --main-color: #1a68b7;
   --text-color: #fff;
   --bg-color: #323137;
   --hover: #4d8bd1;
@@ -65,7 +65,7 @@ section {
   /* border: 2px solid green; */
 }
 
-body.active {
+body {
   --bg-color: #fff;
   --text-color: rgb(12, 39, 13);
 

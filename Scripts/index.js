@@ -51,6 +51,11 @@ darkmode.onclick = () => {
   }
 };
 
+
+
+
+
+
 const resume = document.getElementById("resume-button-1");
 resume.onclick = (e) => {
   // e.preventDefault()
@@ -108,7 +113,7 @@ function handleSubmit(e) {
     user_id: 'EwOkQK6gbyJk_IKps',
     template_params: {
       'from_name': contactName.value,
-      'to_name': 'Priya',
+      'to_name': 'Neha',
       'message': contactMessage.value,
       'from_email': contactEmail.value,
       'phone_number' : ContactPhoneNumber.value
