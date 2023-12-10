@@ -59,14 +59,14 @@ window.onscroll = () => {
 const resume = document.getElementById("resume-button-1");
 resume.onclick = (e) => {
   // e.preventDefault()
-  window.open("https://drive.google.com/file/d/1CeqKNNWB1hoX9lUxwuEJW2uSaeQifbe1/view?usp=sharing", "_blank")
+  window.open("./Media/Neha_Singh_Resume (2).pdf", "_blank")
   // console.log("Click");
 }
 
 const containerResume = document.getElementById("resume-button-2");
 containerResume.onclick = (e) => {
   // e.preventDefault()
-  window.open("https://drive.google.com/file/d/1CeqKNNWB1hoX9lUxwuEJW2uSaeQifbe1/view?usp=sharing", "_blank")
+  window.open("./Media/Neha_Singh_Resume (2).pdf", "_blank")
   // console.log("Click");
 }
 
