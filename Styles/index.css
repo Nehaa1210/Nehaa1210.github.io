@@ -28,7 +28,7 @@
 
 #calendar {
   height: auto;
-  /* border: 3px solid brown; */
+  /* border: 3px solid brown;  */
   /* margin-bottom: 50px; */
   padding-top: 0;
   padding-bottom: 0;
@@ -36,7 +36,7 @@
 
 .calendar {
   padding: 1%;
-  /* border: 2px solid teal; */
+  /* border: 2px solid red; */
 }
 
 * {
