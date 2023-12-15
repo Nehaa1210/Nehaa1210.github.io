@@ -28,15 +28,20 @@
 
 #calendar {
   height: auto;
-  /* border: 3px solid brown;  */
+  /* border: 3px solid brown; */
   /* margin-bottom: 50px; */
   padding-top: 0;
   padding-bottom: 0;
 }
 
+#cal{
+  width: 100%;
+  height: 200px;
+}
+
 .calendar {
   padding: 1%;
-  /* border: 2px solid red; */
+  /* border: 2px solid teal; */
 }
 
 * {
@@ -51,7 +56,7 @@
 }
 
 :root {
-  --main-color: #1a68b7;
+  --main-color: #77797b;
   --text-color: #fff;
   --bg-color: #323137;
   --hover: #4d8bd1;
@@ -798,5 +803,9 @@ skills-container>div>div {
   }
   #contact{
     margin-top: 280px;
+  }
+  #cal{
+    width: 70%;
+    height: 150px;
   }
 }
